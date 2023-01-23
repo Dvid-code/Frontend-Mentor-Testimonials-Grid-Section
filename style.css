@@ -18,26 +18,26 @@ body {
     background: var(--Light-grayish-blue);
 }
 
-h1 {
+h2 {
     color: var(--White);
     font-size: .7rem;
     margin: 0;
 }
 
-h2 {
+h3 {
     color: var(--White);
     opacity: 70%;
     font-size: .6rem;
     margin: 0;
 }
 
-h3 {
+h4 {
     color: var(--White);
     font-size: 1.15rem;
     margin: .8rem 0;
 }
 
-p{
+blockquote{
     color: var(--White);
     opacity: 70%;
     font-size: .75rem;
@@ -78,6 +78,7 @@ p{
     display: column;
     border-radius: .5rem;
     padding: 1.7rem;
+    margin: 0;
 }
 
 .headshot-container {
@@ -91,6 +92,7 @@ p{
     display: column;
     border-radius: .5rem;
     padding: 1.5rem;
+    margin: 0;
 }
 
 .whittle {
@@ -99,21 +101,22 @@ p{
     display: column;
     border-radius: .5rem;
     padding: 1.5rem;
-}
-
-.whittle h1 {
-    color: var(--Very-dark-grayish-blue);
+    margin: 0;
 }
 
 .whittle h2 {
-    color: var(--Very-dark-blackish-blue);
-}
-
-.whittle h3 {
     color: var(--Very-dark-grayish-blue);
 }
 
-.whittle p {
+.whittle h3 {
+    color: var(--Very-dark-blackish-blue);
+}
+
+.whittle h4 {
+    color: var(--Very-dark-grayish-blue);
+}
+
+.whittle blockquote {
     color: var(--Very-dark-grayish-blue);
 }
 
@@ -123,21 +126,22 @@ p{
     display: column;
     border-radius: .5rem;
     padding: 1.5rem;
-}
-
-.harmon h1 {
-    color: var(--Very-dark-grayish-blue);
+    margin: 0;
 }
 
 .harmon h2 {
-    color: var(--Very-dark-blackish-blue);
-}
-
-.harmon h3 {
     color: var(--Very-dark-grayish-blue);
 }
 
-.harmon p {
+.harmon h3 {
+    color: var(--Very-dark-blackish-blue);
+}
+
+.harmon h4 {
+    color: var(--Very-dark-grayish-blue);
+}
+
+.harmon blockquote {
     color: var(--Very-dark-grayish-blue);
 }
 
@@ -147,6 +151,7 @@ p{
     display: column;
     border-radius: .5rem;
     padding: 1.5rem;
+    margin: 0;
 }
 
 .abrams .headshot-img {
