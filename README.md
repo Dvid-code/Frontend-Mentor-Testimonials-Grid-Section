@@ -19,9 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-
-
-## My process
+<img src="https://github.com/Dvid-code/Frontend-Mentor-Testimonials-Grid-Section/blob/main/screenshot/desktop.png">
 
 ### Built with
 
